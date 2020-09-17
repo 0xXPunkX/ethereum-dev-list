@@ -66,6 +66,7 @@ This resource is meant to be focused on developer tools, but the repo also inclu
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
+* [Ethereum Studio](https://studio.ethereum.org/) - Ethereum official web IDE, Ethereum Studio is a tool for developers who want to learn about building on Ethereum. The templates on the left side will teach you how to write a smart contract, deploy it to Ethereum, and interact with the contracts through a web-based application.
 * [Superblocks Lab](https://superblocks.com/lab/) - Web IDE. Built in browser blochain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
 * [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom)
 * [Pragma](https://www.withpragma.com/) - Very simple web IDE for solidity, and auto-generated interfaces for smart contracts.

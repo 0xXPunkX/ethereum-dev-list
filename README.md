@@ -9,7 +9,6 @@ This resource is meant to be focused on developer tools, but the repo also inclu
 
 ## Table of Contents
 - [Ethereum Developer Tools List](#ethereum-developer-tools-list)
-  - [Contributions are welcome!](#contributions-are-welcome)
   - [Table of Contents](#table-of-contents)
   - [New developers start here](#new-developers-start-here)
   - [Developer Tools](#developer-tools)
